@@ -10,3 +10,6 @@
 🚀 Dmitry Sopikov  
 🛠️ **Skills:**
 - **Languages:** HTML, CSS, Python, SQL
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
