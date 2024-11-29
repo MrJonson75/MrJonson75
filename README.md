@@ -25,5 +25,5 @@
 - **My works:**
   1. Blog based on platformer "Flask" functional: registration users with login and mail, downloading messages and photos, editing and viewing a user's profile, subscribe to posts, search, and more [Blog_on_Flask](https://github.com/MrJonson75/my_work/tree/main/Blog_on_Flask)
   2. Information portal dedicated to computer games based on Django framework. Implemented news feed, blog for article discussions, loading media context editing,
-user registration, hashtag generator, full online article editor, mailings, and more [Game_portal_on_Django].https://github.com/MrJonson75/my_work/tree/main/Game_portal_on_Django)
+user registration, hashtag generator, full online article editor, mailings, and more [Game_portal_on_Django](https://github.com/MrJonson75/my_work/tree/main/Game_portal_on_Django)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJonson75&show_icons=true&theme=radical)
