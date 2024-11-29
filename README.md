@@ -9,6 +9,17 @@
 
 🚀 Dmitry Sopikov  
 🛠️ **Skills:**
+1. Ability to write clean, readable and supported code.
+2. Python: syntax knowledge, working with packages, experience with basic Python libraries and frameworks such as Aiogram, Flask FastApi and Django.
+3. Knowledge of the principles of object-oriented programming (OOP) and functional programming, higher-order functions, closures, decorators.
+4. Experience with databases (PostgreSQL, MySQL, SQLite) writing SQL- requests of varying complexity, work with aggregate functions, compiling complex queries from multiple databases using JOIN.
+5. Ability to develop RESTful APIs and work with microservice architecture.
+6. Code testing skills using frameworks such as unittest, pytest and others.
+7. Experience with Git version control systems.
+8. Ability to debug code and optimize performance applications.
+9. Frontend technology skills including HTML, CSS for backend integration.
+10. Experience with containerization tools such as Docker, and configuration management
+    
 - **Languages:** HTML, CSS, Python, SQL
 
 
