@@ -67,6 +67,10 @@ PyCharm, MsSQL, PostgreSQL, Docker, Git, SQLAlchemy, Django, Flask, FastAPI
 | [**Vigenère_Cipher_Helper**](https://github.com/MrJonson75/my_work/tree/main/Vigenère_Cipher_Helper) | Encode/decode messages using Vigenère cipher |
 | [**bot_for_telegram**](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram) | Telegram bot for selling vitamins and supplements |
 | [**GPT_Telegramm_bot**](https://github.com/MrJonson75/GPT_Telegramm_bot.git) | Telegram Bot with ChatGPT, quizzes, voice, facts, translations, modular design |
+| [**Site-for-photos**](https://github.com/MrJonson75/Site-for-photos.git) | Image Hosting / Хостинг изображений — FastAPI + Jinja2 + Docker + Nginx |
+
+> A simple web app to upload, view and download images using FastAPI and Jinja2. With Docker and Nginx support.
+> Простое веб-приложение для загрузки, просмотра и скачивания изображений с помощью FastAPI и Jinja2. Поддерживает Docker и Nginx.
 
 ---
 
