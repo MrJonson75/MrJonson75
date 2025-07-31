@@ -1,108 +1,83 @@
-# 👋 Welcome to My GitHub / Добро пожаловать на мой GitHub
-
+<!-- Animated Greeting -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Dmitry+Sopikov's+Github+Profile..)](https://git.io/typing-svg)
 
+<!-- Profile GIF -->
 <img src="https://github.com/MrJonson75/my_work/blob/main/animiene-miene.gif" alt="The Unlimited" width="600">
 
-![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)
+<!-- Badges and Contact Icons -->
+[![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)](https://www.python.org)
+[![JavaScript Badge](https://img.shields.io/badge/js-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Docker Badge](https://img.shields.io/badge/Docker-blue?logo=docker)](https://www.docker.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/your_telegram)
 
 ---
 
-## 🚀 Dmitry Sopikov
-
-**EN:** I'm a certified Python developer. My mission is to apply technical skills and experience to build quality software and solve complex problems.
-
-**RU:** Я сертифицированный разработчик Python. Моя цель — применять технические навыки и опыт для создания качественного ПО и решения сложных задач.
-
----
+# 🚀 Dmitry Sopikov
 
 ## 🙋‍♂️ About Me / Обо мне
+I'm a Python certified developer. The purpose and mission of my work is to apply technical skills and experience to create quality software and solve complex tasks.
 
-**EN:**
-In my work, I actively use the following soft and hard skills:
-
-**RU:**
-В своей работе я активно применяю следующие навыки и умения:
+Я сертифицированный разработчик Python. Цель моей работы — применять технические навыки и опыт для создания качественного ПО и решения сложных задач.
 
 ---
 
-### 🛠️ Skills / Навыки
+## 🛠️ Skills / Навыки
 
-**EN:**
-1. Writing clean, maintainable code.
-2. Deep Python knowledge (syntax, packages, libraries: Aiogram, Flask, FastAPI, Django).
-3. Understanding of OOP and functional programming, including closures and decorators.
-4. Database experience (PostgreSQL, MySQL, SQLite) with complex SQL queries and JOINs.
-5. Development of RESTful APIs and microservices.
-6. Testing using unittest, pytest.
-7. Version control with Git.
-8. Debugging and performance optimization.
-9. Frontend basics (HTML, CSS) for backend integration.
-10. Docker & configuration tools experience.
+### 💻 Programming / Программирование
+- Python: syntax, Aiogram, Flask, FastAPI, Django
+- JavaScript, HTML, CSS
 
-**RU:**
-1. Умение писать чистый, поддерживаемый код.
-2. Отличное знание Python, включая библиотеки: Aiogram, Flask, FastAPI, Django.
-3. Понимание ООП и функционального программирования, замыканий, декораторов.
-4. Работа с БД: PostgreSQL, MySQL, SQLite; написание сложных SQL-запросов.
-5. Разработка REST API и микросервисной архитектуры.
-6. Тестирование с помощью unittest, pytest.
-7. Контроль версий через Git.
-8. Отладка и оптимизация производительности.
-9. Знание HTML, CSS для интеграции с backend.
-10. Работа с Docker и инструментами конфигурации.
+### 🧠 Paradigms / Парадигмы
+- Object-oriented programming (OOP)
+- Functional programming, higher-order functions, closures, decorators
 
----
+### 🛢️ Databases / Базы данных
+- PostgreSQL, MySQL, SQLite
+- SQL: joins, aggregations, complex queries
 
-### 🧰 Tools & Technologies / Инструменты и технологии
+### 🌐 Web / API
+- RESTful API development
+- Microservice architecture
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+### 🧪 Testing & Debugging
+- unittest, pytest
+- Debugging and performance optimization
+
+### 🐳 DevOps & Tools
+- Git, GitHub
+- Docker
 
 ---
 
-## 💼 Projects / Проекты
+## ⚙️ Programs and Services / Программы и сервисы
+PyCharm, MsSQL, PostgreSQL, Docker, Git, SQLAlchemy, Django, Flask, FastAPI
 
-| 📦 Project | 📝 Description (EN/RU) |
-|-----------|--------------------------|
-| [Blog_on_Flask](https://github.com/MrJonson75/my_work/tree/main/Blog_on_Flask) | User registration, messages/photos upload, profile editing, subscriptions / Регистрация, загрузка фото, подписки, редактирование профиля |
-| [Game_portal_on_Django](https://github.com/MrJonson75/my_work/tree/main/Game_portal_on_Django) | Newsfeed, comments, hashtag generator, article editor / Новости, блог, генератор хэштегов, редактор статей |
-| [Price_List_Analyzer](https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer) | Search products across multiple XLS files / Поиск по прайс-листам с сортировкой |
-| [Roman_to_Numerals](https://github.com/MrJonson75/my_work/tree/main/Roman_to_Numerals) | Roman ↔ Decimal converter / Конвертер римских и десятичных чисел |
-| [Simple_FastApi_blog](https://github.com/MrJonson75/my_work/tree/main/Simple_FastApi_blog) | Minimalistic FastAPI blog / Простой блог на FastAPI |
-| [Vigenère_Cipher_Helper](https://github.com/MrJonson75/my_work/tree/main/Vigen%C3%A8re_Cipher_Helper) | Encode/decode using Vigenère / Шифратор Виженера |
-| [bot_for_telegram](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram) | Telegram bot for selling supplements / Телеграм-бот для торговли БАДами |
+---
+
+## 📂 My Projects / Мои проекты
+
+| 📦 Project | 📝 Description |
+|-----------|----------------|
+| [**Blog_on_Flask**](https://github.com/MrJonson75/my_work/tree/main/Blog_on_Flask) | User registration, photo uploads, profiles, subscriptions, search and more |
+| [**Game_portal_on_Django**](https://github.com/MrJonson75/my_work/tree/main/Game_portal_on_Django) | News, articles, media uploads, editor, hashtag generator, mailings |
+| [**Price_List_Analyzer**](https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer) | Price list parsing, item search, price per kilogram comparison |
+| [**Roman_to_Numerals**](https://github.com/MrJonson75/my_work/tree/main/Roman_to_Numerals) | Convert Roman numerals to decimals and back |
+| [**Simple_FastApi_blog**](https://github.com/MrJonson75/my_work/tree/main/Simple_FastApi_blog) | Simple blog with FastAPI, user registration |
+| [**Vigenère_Cipher_Helper**](https://github.com/MrJonson75/my_work/tree/main/Vigenère_Cipher_Helper) | Encode/decode messages using Vigenère cipher |
+| [**bot_for_telegram**](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram) | Telegram bot for selling vitamins and supplements |
+| [**GPT_Telegramm_bot**](https://github.com/MrJonson75/GPT_Telegramm_bot.git) | Telegram Bot with ChatGPT, quizzes, voice, facts, translations, modular design |
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJonson75&show_icons=true&theme=radical)
 
----
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MrJonson75&theme=radical)
 
-## 🌱 Currently Learning / Сейчас изучаю
-
-- Async frameworks and aiohttp / Асинхронные фреймворки и aiohttp
-- Docker + CI/CD pipelines / Docker и CI/CD пайплайны
-- Telegram bot development / Разработка Telegram-ботов
+![GitHub Contribution Snake](https://raw.githubusercontent.com/MrJonson75/MrJonson75/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Contacts / Контакты
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:your_email@gmail.com)
-
----
-
-> Thank you for visiting! / Спасибо, что заглянули! 🚀✨
-
+> Thank you for visiting! 🙌 / Спасибо за визит!
 
