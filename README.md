@@ -59,12 +59,7 @@ PyCharm, MsSQL, PostgreSQL, Docker, Git, SQLAlchemy, Django, Flask, FastAPI
 
 | 📦 Project | 📝 Description |
 |-----------|----------------|
-| [**Blog_on_Flask**](https://github.com/MrJonson75/my_work/tree/main/Blog_on_Flask) | User registration, photo uploads, profiles, subscriptions, search and more |
-| [**Game_portal_on_Django**](https://github.com/MrJonson75/my_work/tree/main/Game_portal_on_Django) | News, articles, media uploads, editor, hashtag generator, mailings |
 | [**Price_List_Analyzer**](https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer) | Price list parsing, item search, price per kilogram comparison |
-| [**Roman_to_Numerals**](https://github.com/MrJonson75/my_work/tree/main/Roman_to_Numerals) | Convert Roman numerals to decimals and back |
-| [**Simple_FastApi_blog**](https://github.com/MrJonson75/my_work/tree/main/Simple_FastApi_blog) | Simple blog with FastAPI, user registration |
-| [**Vigenère_Cipher_Helper**](https://github.com/MrJonson75/my_work/tree/main/Vigenère_Cipher_Helper) | Encode/decode messages using Vigenère cipher |
 | [**bot_for_telegram**](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram) | Telegram bot for selling vitamins and supplements |
 | [**GPT_Telegramm_bot**](https://github.com/MrJonson75/GPT_Telegramm_bot.git) | Telegram Bot with ChatGPT, quizzes, voice, facts, translations, modular design |
 | [**Site-for-photos**](https://github.com/MrJonson75/Site-for-photos.git) | Image Hosting / Хостинг изображений — FastAPI + Jinja2 + Docker + Nginx |
