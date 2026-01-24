@@ -17,11 +17,11 @@
 
 🇬🇧  
 I'm a Python backend developer focused on building scalable web services, Telegram bots, and automation systems for business and startups.  
-I enjoy solving non-trivial engineering problems and delivering reliable production-ready solutions.
+I enjoy solving non-trivial engineering problems and delivering reliable, scalable production-ready solutions.
 
 🇷🇺  
 Я Python backend-разработчик, специализируюсь на создании масштабируемых веб-сервисов, Telegram-ботов и систем автоматизации для бизнеса и стартапов.  
-Люблю нестандартные задачи и создавать надёжные production-решения.
+Люблю нестандартные задачи и создавать надёжные, масштабируемые production-решения.
 
 ---
 
@@ -51,6 +51,7 @@ I enjoy solving non-trivial engineering problems and delivering reliable product
 - Python (FastAPI, Flask, Django)
 - Asyncio, Celery, APScheduler
 - Aiogram, Telethon
+- OpenAI API
 
 ### 🎨 Frontend (basic)
 - HTML, CSS
@@ -87,17 +88,15 @@ I enjoy solving non-trivial engineering problems and delivering reliable product
 
 ## 🚧 Currently Working On | Сейчас работаю над
 
-🇬🇧
+🇬🇧  
+- Improving Telegram news generation system  
+- Scaling backend services  
+- Learning Kubernetes
 
-* Improving Telegram news generation system
-* Scaling backend services
-* Learning Kubernetes
-
-🇷🇺
-
-* Улучшением системы генерации новостей для Telegram
-* Масштабированием backend-сервисов
-* Изучением Kubernetes
+🇷🇺  
+- Улучшением системы генерации новостей для Telegram  
+- Масштабированием backend-сервисов  
+- Изучением Kubernetes
 
 ---
 
@@ -105,64 +104,73 @@ I enjoy solving non-trivial engineering problems and delivering reliable product
 
 ### 📰 News Generator for Telegram
 
-Automatic system for collecting news and generating posts for Telegram
-Автоматическая система сбора новостей и генерации постов
-**Stack:** FastAPI, Celery, Redis, SQLAlchemy, OpenAI
-🔗 [https://github.com/MrJonson75/News-generator-for-telegram-channel](https://github.com/MrJonson75/News-generator-for-telegram-channel)
+Automatic system for collecting news and generating posts for Telegram  
+
+Автоматическая система сбора новостей и генерации постов  
+
+**Stack:** FastAPI, Celery, Redis, SQLAlchemy, OpenAI  
+🔗 https://github.com/MrJonson75/News-generator-for-telegram-channel
 
 ---
 
 ### 🤖 GPT Telegram Bot
 
-Telegram bot with ChatGPT, quizzes, voice messages, facts, translations
-Telegram-бот с ChatGPT, викторинами, голосом, фактами и переводами
-**Stack:** Python, OpenAI API, Aiogram
-🔗 [https://github.com/MrJonson75/GPT_Telegramm_bot](https://github.com/MrJonson75/GPT_Telegramm_bot)
+Telegram bot with ChatGPT, quizzes, voice messages, facts, translations  
+
+Telegram-бот с ChatGPT, викторинами, голосом, фактами и переводами  
+
+**Stack:** Python, OpenAI API, Aiogram  
+🔗 https://github.com/MrJonson75/GPT_Telegramm_bot
 
 ---
 
 ### 🖼 Image Hosting Platform
 
-Image hosting service
-Хостинг изображений
-**Stack:** FastAPI, Jinja2, Docker, Nginx
-🔗 [https://github.com/MrJonson75/Site-for-photos](https://github.com/MrJonson75/Site-for-photos)
+Image hosting service  
+
+Хостинг изображений  
+
+**Stack:** FastAPI, Jinja2, Docker, Nginx  
+🔗 https://github.com/MrJonson75/Site-for-photos
 
 ---
 
 ### 📊 Price List Analyzer
 
-Price parsing and comparison system
-Система анализа и сравнения прайс-листов
-**Stack:** Python
-🔗 [https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer](https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer)
+Price parsing and comparison system  
+
+Система анализа и сравнения прайс-листов  
+
+**Stack:** Python  
+🔗 https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer
 
 ---
 
 ### 🛒 Telegram Shop Bot
 
-Telegram bot for selling vitamins and supplements
-Telegram-бот для продажи витаминов и БАДов
-**Stack:** Python, Aiogram
-🔗 [https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram)
+Telegram bot for selling vitamins and supplements  
+
+Telegram-бот для продажи витаминов и БАДов  
+
+**Stack:** Python, Aiogram  
+🔗 https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJonson75\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJonson75\&layout=compact\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJonson75&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJonson75&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact | Контакты
 
-
-* Telegram: [https://t.me/@MrJonson_Dmitriy](https://t.me/@MrJonson_Dmitriy)
-* LinkedIn: [www.linkedin.com/in/dmitriy-sopikov-b2821b3a8](www.linkedin.com/in/dmitriy-sopikov-b2821b3a8)
-* Email: [your@sopikovdv@yandex.ru](mailto:sopikovdv@yandex.ru)
+- Telegram: https://t.me/MrJonson_Dmitriy  
+- LinkedIn: https://www.linkedin.com/in/dmitriy-sopikov-b2821b3a8  
+- Email: sopikovdv@yandex.ru
 
 ---
 
-
-
+> Open for job opportunities and freelance projects  
+> Открыт к предложениям по работе и фрилансу 🚀
