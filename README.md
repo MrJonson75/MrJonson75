@@ -25,8 +25,8 @@ I'm a Python certified developer. The purpose and mission of my work is to apply
 ## 🛠️ Skills / Навыки
 
 ### 💻 Programming / Программирование
-- Python: syntax, Aiogram, Flask, FastAPI, Django
-- JavaScript, HTML, CSS
+- Python: syntax, Aiogram, Telethon, Flask, FastAPI, Django, SQLAlchemy, RabitMQ, Redis, Celery, APScheduler, asyncio, Pytest, 
+- HTML, CSS, NodeJS,
 
 ### 🧠 Paradigms / Парадигмы
 - Object-oriented programming (OOP)
@@ -35,10 +35,12 @@ I'm a Python certified developer. The purpose and mission of my work is to apply
 ### 🛢️ Databases / Базы данных
 - PostgreSQL, MySQL, SQLite
 - SQL: joins, aggregations, complex queries
+- NOSQL: MongoDB
 
 ### 🌐 Web / API
 - RESTful API development
 - Microservice architecture
+- Nginx, uWSGI, Docker, 
 
 ### 🧪 Testing & Debugging
 - unittest, pytest
@@ -51,28 +53,25 @@ I'm a Python certified developer. The purpose and mission of my work is to apply
 ---
 
 ## ⚙️ Programs and Services / Программы и сервисы
-PyCharm, MsSQL, PostgreSQL, Docker, Git, SQLAlchemy, Django, Flask, FastAPI
+PyCharm, VS Code, MsSQL, PostgreSQL, Docker, Git, SQLAlchemy, Django, Flask, FastAPI
 
 ---
 
 ## 📂 My Projects / Мои проекты
 
-| 📦 Project | 📝 Description |
-|-----------|----------------|
-| [**Price_List_Analyzer**](https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer) | Price list parsing, item search, price per kilogram comparison |
-| [**bot_for_telegram**](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram) | Telegram bot for selling vitamins and supplements |
-| [**GPT_Telegramm_bot**](https://github.com/MrJonson75/GPT_Telegramm_bot.git) | Telegram Bot with ChatGPT, quizzes, voice, facts, translations, modular design |
-| [**Site-for-photos**](https://github.com/MrJonson75/Site-for-photos.git) | Image Hosting / Хостинг изображений — FastAPI + Jinja2 + Docker + Nginx |
+| 📦 Project | 📝 Description                                                                                                                                    |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Price_List_Analyzer**](https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer) | Price list parsing, item search, price per kilogram comparison                                                                                    |
+| [**bot_for_telegram**](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram) | Telegram bot for selling vitamins and supplements                                                                                                 |
+| [**GPT_Telegramm_bot**](https://github.com/MrJonson75/GPT_Telegramm_bot.git) | Telegram Bot with ChatGPT, quizzes, voice, facts, translations, modular design                                                                    |
+| [**Site-for-photos**](https://github.com/MrJonson75/Site-for-photos.git) | Image Hosting / Хостинг изображений — FastAPI + Jinja2 + Docker + Nginx                                                                           |
+| [**News-generator-for-telegram-channel**](https://github.com/MrJonson75/News-generator-for-telegram-channel.git) | Automatic system for collecting news and generating posts for Telegram / Автоматическая система сбора новостей, генерации постов для Telegram, - FastAPI, Celery, SQLAlchemy, Redis, SQLite и OpenAI |
 
 
 ---
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJonson75&show_icons=true&theme=radical)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MrJonson75&theme=radical)
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/MrJonson75/MrJonson75/output/github-contribution-grid-snake.svg)
 
 ---
 
