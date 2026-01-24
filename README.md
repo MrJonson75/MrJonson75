@@ -1,79 +1,169 @@
 <!-- Animated Greeting -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Dmitry+Sopikov's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+Dmitry+Sopikov's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<!-- Profile GIF -->
 <img src="https://github.com/MrJonson75/my_work/blob/main/animiene-miene.gif" alt="The Unlimited" width="600">
 
-<!-- Badges and Contact Icons -->
-[![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)](https://www.python.org)
-[![JavaScript Badge](https://img.shields.io/badge/js-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Docker Badge](https://img.shields.io/badge/Docker-blue?logo=docker)](https://www.docker.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/your_telegram)
+<!-- Badges -->
+[![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](https://www.docker.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)](https://fastapi.tiangolo.com)
 
 ---
 
-# 🚀 Dmitry Sopikov
+# 🚀 Dmitry Sopikov | Python Backend Developer
 
-## 🙋‍♂️ About Me / Обо мне
-I'm a Python certified developer. The purpose and mission of my work is to apply technical skills and experience to create quality software and solve complex tasks.
+## 🙋‍♂️ About Me | Обо мне
 
-Я сертифицированный разработчик Python. Цель моей работы — применять технические навыки и опыт для создания качественного ПО и решения сложных задач.
+🇬🇧  
+I'm a Python backend developer focused on building scalable web services, Telegram bots, and automation systems for business and startups.  
+I enjoy solving non-trivial engineering problems and delivering reliable production-ready solutions.
 
----
-
-## 🛠️ Skills / Навыки
-
-### 💻 Programming / Программирование
-- Python: syntax, Aiogram, Telethon, Flask, FastAPI, Django, SQLAlchemy, RabitMQ, Redis, Celery, APScheduler, asyncio, Pytest, 
-- HTML, CSS, NodeJS,
-
-### 🧠 Paradigms / Парадигмы
-- Object-oriented programming (OOP)
-- Functional programming, higher-order functions, closures, decorators
-
-### 🛢️ Databases / Базы данных
-- PostgreSQL, MySQL, SQLite
-- SQL: joins, aggregations, complex queries
-- NOSQL: MongoDB
-
-### 🌐 Web / API
-- RESTful API development
-- Microservice architecture
-- Nginx, uWSGI, Docker, 
-
-### 🧪 Testing & Debugging
-- unittest, pytest
-- Debugging and performance optimization
-
-### 🐳 DevOps & Tools
-- Git, GitHub
-- Docker
+🇷🇺  
+Я Python backend-разработчик, специализируюсь на создании масштабируемых веб-сервисов, Telegram-ботов и систем автоматизации для бизнеса и стартапов.  
+Люблю нестандартные задачи и создавать надёжные production-решения.
 
 ---
 
-## ⚙️ Programs and Services / Программы и сервисы
-PyCharm, VS Code, MsSQL, PostgreSQL, Docker, Git, SQLAlchemy, Django, Flask, FastAPI
+## 💡 What I Can Offer | Чем могу быть полезен
+
+🇬🇧  
+- Backend development for business and startups  
+- Telegram bots for sales, support and automation  
+- REST API design and integration  
+- Automation, parsing, data processing systems  
+- Microservice architecture  
+- Freelance & remote collaboration
+
+🇷🇺  
+- Backend-разработка для бизнеса и стартапов  
+- Telegram-боты для продаж, поддержки и автоматизации  
+- Проектирование и интеграция REST API  
+- Автоматизация, парсинг, обработка данных  
+- Микросервисная архитектура  
+- Фриланс и удалённое сотрудничество
 
 ---
 
-## 📂 My Projects / Мои проекты
+## 🛠️ Skills | Навыки
 
-| 📦 Project | 📝 Description                                                                                                                                    |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Price_List_Analyzer**](https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer) | Price list parsing, item search, price per kilogram comparison                                                                                    |
-| [**bot_for_telegram**](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram) | Telegram bot for selling vitamins and supplements                                                                                                 |
-| [**GPT_Telegramm_bot**](https://github.com/MrJonson75/GPT_Telegramm_bot.git) | Telegram Bot with ChatGPT, quizzes, voice, facts, translations, modular design                                                                    |
-| [**Site-for-photos**](https://github.com/MrJonson75/Site-for-photos.git) | Image Hosting / Хостинг изображений — FastAPI + Jinja2 + Docker + Nginx                                                                           |
-| [**News-generator-for-telegram-channel**](https://github.com/MrJonson75/News-generator-for-telegram-channel.git) | Automatic system for collecting news and generating posts for Telegram / Автоматическая система сбора новостей, генерации постов для Telegram, - FastAPI, Celery, SQLAlchemy, Redis, SQLite и OpenAI |
+### 🧩 Backend
+- Python (FastAPI, Flask, Django)
+- Asyncio, Celery, APScheduler
+- Aiogram, Telethon
 
+### 🎨 Frontend (basic)
+- HTML, CSS
+- JavaScript (Node.js)
+
+### 🛢 Databases
+- PostgreSQL, MySQL, SQLite, MongoDB  
+- SQL (joins, aggregations, optimization)
+
+### ⚙️ Infrastructure
+- Docker, Nginx, uWSGI  
+- Redis, RabbitMQ
+
+### 🧪 Testing
+- Pytest, unittest
+
+### 🔧 Tools
+- Git, GitHub  
+- PyCharm, VS Code
+
+---
+
+## 🎓 Certifications | Сертификаты
+
+🇬🇧  
+- Python Developer — Stepik (2024)  
+  https://stepik.org/cert/2749334?lang=en
+
+🇷🇺  
+- Python-разработчик — Stepik (2024)  
+  https://stepik.org/cert/2749334?lang=en
+
+---
+
+## 🚧 Currently Working On | Сейчас работаю над
+
+🇬🇧
+
+* Improving Telegram news generation system
+* Scaling backend services
+* Learning Kubernetes
+
+🇷🇺
+
+* Улучшением системы генерации новостей для Telegram
+* Масштабированием backend-сервисов
+* Изучением Kubernetes
+
+---
+
+## 📂 Projects | Проекты
+
+### 📰 News Generator for Telegram
+
+Automatic system for collecting news and generating posts for Telegram
+Автоматическая система сбора новостей и генерации постов
+**Stack:** FastAPI, Celery, Redis, SQLAlchemy, OpenAI
+🔗 [https://github.com/MrJonson75/News-generator-for-telegram-channel](https://github.com/MrJonson75/News-generator-for-telegram-channel)
+
+---
+
+### 🤖 GPT Telegram Bot
+
+Telegram bot with ChatGPT, quizzes, voice messages, facts, translations
+Telegram-бот с ChatGPT, викторинами, голосом, фактами и переводами
+**Stack:** Python, OpenAI API, Aiogram
+🔗 [https://github.com/MrJonson75/GPT_Telegramm_bot](https://github.com/MrJonson75/GPT_Telegramm_bot)
+
+---
+
+### 🖼 Image Hosting Platform
+
+Image hosting service
+Хостинг изображений
+**Stack:** FastAPI, Jinja2, Docker, Nginx
+🔗 [https://github.com/MrJonson75/Site-for-photos](https://github.com/MrJonson75/Site-for-photos)
+
+---
+
+### 📊 Price List Analyzer
+
+Price parsing and comparison system
+Система анализа и сравнения прайс-листов
+**Stack:** Python
+🔗 [https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer](https://github.com/MrJonson75/my_work/tree/main/Price_List_Analyzer)
+
+---
+
+### 🛒 Telegram Shop Bot
+
+Telegram bot for selling vitamins and supplements
+Telegram-бот для продажи витаминов и БАДов
+**Stack:** Python, Aiogram
+🔗 [https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram](https://github.com/MrJonson75/my_work/tree/main/bot_for_telegram)
 
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJonson75&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJonson75\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJonson75\&layout=compact\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=MrJonson75\&theme=radical)
 
 ---
 
-> Thank you for visiting! 🙌 / Спасибо за визит!
+## 📫 Contact | Контакты
+
+
+* Telegram: [https://t.me/@MrJonson_Dmitriy](https://t.me/@MrJonson_Dmitriy)
+* LinkedIn: [www.linkedin.com/in/dmitriy-sopikov-b2821b3a8](www.linkedin.com/in/dmitriy-sopikov-b2821b3a8)
+* Email: [your@sopikovdv@yandex.ru](mailto:sopikovdv@yandex.ru)
+
+---
+
+
 
