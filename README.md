@@ -152,7 +152,6 @@ Telegram-бот для продажи витаминов и БАДов
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJonson75\&show_icons=true\&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJonson75\&layout=compact\&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=MrJonson75\&theme=radical)
 
 ---
 
