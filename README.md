@@ -76,13 +76,12 @@ I enjoy solving non-trivial engineering problems and delivering reliable, scalab
 
 ## 🎓 Certifications | Сертификаты
 
-🇬🇧  
 - Python Developer — Stepik (2024)  
   https://stepik.org/cert/2749334?lang=en
 
-🇷🇺  
-- Python-разработчик — Stepik (2024)  
-  https://stepik.org/cert/2749334?lang=en
+  
+- Python-разработчик — Stepik (2026)  
+  [https://stepik.org/cert/2749334?lang=en](https://stepik.org/cert/2896483)
 
 ---
 
